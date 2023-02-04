@@ -1,0 +1,20 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+    },    
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidHenry/lab3.git"
+  },
+  "keywords": [],
+  "author": "Khalid Henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidHenry/lab3/issues"
+  },
+  "homepage": "https://github.com/khalidHenry/lab3#readme"
+}
